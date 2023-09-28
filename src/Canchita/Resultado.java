@@ -1,0 +1,9 @@
+package Canchita;
+
+public enum Resultado {
+	RESERVA_OK,
+	CANCHA_NO_DISPONIBLE,
+	HORARIO_NO_DISPONIBLE,
+	USUARIO_NO_REGISTRADO;
+	
+}
